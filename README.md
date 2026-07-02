@@ -65,4 +65,4 @@ Seu navegador não suporta vídeo.
 
 [Assista ao vídeo demostrativo](https://youtu.be/34ghuFx3ZmQ)
 
-[![Assista ao vídeo demostrativo](thamb.jpg)](https://youtu.be/34ghuFx3ZmQ)
+[![Assista ao vídeo demostrativo](thamb.png)](https://youtu.be/34ghuFx3ZmQ)
