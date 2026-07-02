@@ -64,3 +64,5 @@ Seu navegador não suporta vídeo.
 </video>
 
 [Assista ao vídeo demostrativo](https://youtu.be/34ghuFx3ZmQ)
+
+[![Assista ao vídeo demostrativo](thamb.jpg)](https://youtu.be/34ghuFx3ZmQ)
